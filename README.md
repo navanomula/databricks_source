@@ -2,9 +2,9 @@
 databricks scripts frameworks documents
 1. ServiceNow integration framework
    
-   -ServiceNow_Incident_Ticket_Generation.ipynb [Incident updation: one incident per job run]
-   -db_workflow_integration.ipynb [Generic: explores multiple approaches]
-   -db_workflow_integration_continuous.ipynb [New incident for every failed task]
+   - ServiceNow_Incident_Ticket_Generation.ipynb [Incident updation: one incident per job run]
+   - db_workflow_integration.ipynb [Generic: explores multiple approaches]
+   - db_workflow_integration_continuous.ipynb [New incident for every failed task]
    
    Documentation:
    
