@@ -19,7 +19,9 @@ databricks scripts frameworks documents
   - data_quality_framework.ipynb
    
    Documentation:
-   - Data Quality Framework.pdf
+   
+  - Data Quality Framework.pdf
    
 3.  Git Integration design practices.
+4.  
    - Git Integration Design Practices.pdf
