@@ -8,9 +8,10 @@ databricks scripts frameworks documents
    
    Documentation:
    
-   Workflow ServiceNow Integration for continuous job.pdf
+   - Workflow ServiceNow Integration for continuous job.pdf
+   
    Workflow Integration.pdf
-   Workflow ServiceNow Integration for continuous job.pdf
+   - Workflow ServiceNow Integration for continuous job.pdf
 
    
 2. Data Quality Framework
@@ -18,7 +19,7 @@ databricks scripts frameworks documents
   - data_quality_framework.ipynb
    
    Documentation:
-   Data Quality Framework.pdf
+   - Data Quality Framework.pdf
    
 3.  Git Integration design practices.
    - Git Integration Design Practices.pdf
