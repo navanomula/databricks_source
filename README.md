@@ -23,5 +23,5 @@ databricks scripts frameworks documents
   - Data Quality Framework.pdf
    
 3.  Git Integration design practices.
-4.  
+  
    - Git Integration Design Practices.pdf
